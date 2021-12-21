@@ -1,7 +1,7 @@
 DA-STDP
 ============
 
-[![badge](https://img.shields.io/badge/Julia-1.4.2-green)](https://julialang.org/)
+[![badge](https://img.shields.io/badge/Julia-1.4.2-green)](https://julialang.org/downloads/oldreleases/#v142_may_23_2020)
 
 
 
