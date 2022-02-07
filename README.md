@@ -26,9 +26,9 @@ The model trained in this simulation is a randomly connected Recurrent Spiking N
 
 ## Setup/Usage
 
-+In the directory of your choice run the following terminal command: `git clone https://github.com/t-cormier/da-stdp`
-+From within the package manager of the Julia REPL activate environment `activate dastdp_env`.
-+Run `include("main.jl")` from the Julia REPL.
+*In the directory of your choice run the following terminal command: `git clone https://github.com/t-cormier/da-stdp`
+*From within the package manager of the Julia REPL activate environment `activate dastdp_env`.
+*Run `include("main.jl")` from the Julia REPL.
 
 ---
 
