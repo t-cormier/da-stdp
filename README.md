@@ -26,7 +26,7 @@ In this particular experiment, the rewarded behavior is the strengthening of a s
 - The RSNN is composed of 1000 spiking neurons (Izhikevic model) and the conditioned synapse (blue) is randomly selected for the simulation.
 - The model is trained for 3600 seconds with DA-STDP.
 - The reward is given after a random delay between 1 and 3 seconds.
-- Hyperparameters are identical to the ones in the paper.
+- Hyperparameters are identical to the ones in the article.
 
 ### Results
 
