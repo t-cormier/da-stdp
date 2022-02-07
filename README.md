@@ -20,6 +20,7 @@ The model trained in this simulation is a randomly connected Recurrent Spiking N
 
 ### Results
 
+![dastdp](/images/dastdpsyn+mean.png)
 
 
 ---
