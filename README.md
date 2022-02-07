@@ -16,6 +16,8 @@ This project aims at reproducing the first results from (Izhikevic, [2007](https
 
 The model trained in this simulation is a randomly connected Recurrent Spiking Neural Network (RSNN). Each synapse is subject to the biologically plausible learning rule developed in the article called DA-STDP :
 
+$$H = 2$$
+
 $$
 \left\{
   \begin{array}{ll}
