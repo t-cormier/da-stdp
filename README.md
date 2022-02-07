@@ -19,7 +19,7 @@ Spike Time Dependent Plasticity (STDP) is a biologically plausible unsupervised 
 
 ### Model trained
 
-In this particular experiment, the rewarded behavior is the strengthening of a single synapse (arbitrarily chosen) within a recurrent network of spiking neurons (RSNN).
+In this particular experiment, the rewarded behavior is the strengthening of a single synapse (arbitrarily chosen) within a recurrent network of spiking neurons (RSNN):
 
 ![dastdp_model](/images/dastdp_model.png)
 
