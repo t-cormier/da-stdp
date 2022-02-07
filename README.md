@@ -22,6 +22,7 @@ The model trained in this simulation is a randomly connected Recurrent Spiking N
 
 ![dastdp](/images/dastdpsyn+mean.png)
 
+Reproduction of Figure 1.d of (Izhikevic, 2007). The weight of the conditioned synapse increases to the cap value (blue curve) while the mean synaptic strength in the recurrent network decreases. 
 
 ---
 
