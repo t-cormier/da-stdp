@@ -18,6 +18,8 @@ The model trained in this simulation is a randomly connected Recurrent Spiking N
 
 $$H = 2$$
 
+![img](http://latex.codecogs.com/svg.latex?%5Cleft%5C%7B%0D%0A++%5Cbegin%7Barray%7D%7Bll%7D%0D%0A++++%5Cdot%7Bc%7D+%3D+-+%5Cfrac%7Bc%7D%7B%5Ctau_c%7D+%5C%5C%0D%0A++%5Cend%7Barray%7D%0D%0A%5Cright.)
+
 $$
 \left\{
   \begin{array}{ll}
